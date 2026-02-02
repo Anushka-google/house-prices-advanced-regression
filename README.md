@@ -90,7 +90,7 @@ Dataset used from Kaggle:
 
 ## 👤 Author
 
-**Anurag Chauhan**  
+**Anuushka Kaushal**  
 Machine Learning | Data Science | Kaggle Projects
 
 ---
